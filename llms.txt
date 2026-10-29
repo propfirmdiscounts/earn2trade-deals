@@ -1,0 +1,8 @@
+# Earn2Trade Discount Codes
+
+This dataset tracks historical deal observations for Earn2Trade from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (50%)
+Works any time on all Earn2Trade challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/earn2trade/

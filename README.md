@@ -68,4 +68,4 @@ This repository tracks all historical deals for **Earn2Trade** published on Prop
 
 ---
 
-Last synced: 2026-10-29T02:05:19Z (auto, hourly)
+Last synced: 2026-10-29T06:31:13Z (auto, hourly)

@@ -7,7 +7,7 @@ As of 2026-10-01, Earn2Trade deals run up to 50% OFF with code PFD, which works 
 > — Earn2Trade, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/www.earn2trade.com)
 
 - Code: PFD
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Earn2Trade deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-01
 - Trustpilot: 4.5/5 (5052 reviews)

@@ -1,44 +1,66 @@
 ---
 license: other
+pretty_name: Earn2Trade Discount Code
 configs:
 - config_name: earn2trade-deals
   data_files:
   - split: data
     path: datasets/earn2trade-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - earn2trade
 ---
 
-# Earn2Trade - Discount Codes & Deal History
+# Earn2Trade Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-01, Earn2Trade deals run up to 50% OFF with code PFD, which works any time — the newest is **50% Off Challenge Pricing and $165 Bundle Package**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/earn2trade/
+> Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
+>
+> — Earn2Trade, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/www.earn2trade.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-01
+- Trustpilot: 4.5/5 (5052 reviews)
+- Activate: https://propfirmdiscount.com/go/earn2trade
+- Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **50% off** on Earn2Trade challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Earn2Trade evaluation accounts.
+## Current Earn2Trade deal: 50% Off Challenge Pricing and $165 Bundle Package
+
+- Published: 2026-10-01
+- Offer ends: 2026-10-18 (ended)
+- Offer: 50% off
+- Scope: All Evaluation Models, Resets, Tcp25 Bundle
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/
+
+## Earn2Trade discount code FAQ
+
+**What is the Earn2Trade discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 50% off Earn2Trade challenges and accounts.
+
+**Does the Earn2Trade discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Earn2Trade deal?**
+
+**50% Off Challenge Pricing and $165 Bundle Package** — published 2026-10-01. Offer ends: 2026-10-18 (ended). The offer is 50% off.
 
 ---
 
-## Latest Deal
-
-### Earn2Trade - 50% Off Challenge Pricing and $165 Bundle Package
-
-**Published:** 2026-10-01  
-**Offer ends:** 2026-10-18 (ended)  
-**Discount:** 50% off  
-**Scope:** All Evaluation Models, Resets, Tcp25 Bundle  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **18**
 
@@ -72,19 +94,20 @@ Total deals tracked: **18**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Earn2Trade** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Earn2Trade** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/earn2trade/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/earn2trade/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 

@@ -1,308 +1,380 @@
 [
   {
+    "prop_firm": "Earn2Trade",
+    "prop_firm_slug": "earn2trade",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 12792,
     "title": "50% Off Challenge Pricing and $165 Bundle Package",
-    "offer_type": "coupon",
+    "date_published": "2026-10-01",
+    "date_exp": "2026-10-18 (ended)",
     "discount_value": "50%",
+    "last_verified": "2026-10-01",
+    "offer_type": "coupon",
     "scope": [
       "All Evaluation Models, Resets, Tcp25 Bundle"
     ],
-    "date_published": "2026-10-01",
-    "date_exp": "2026-10-18 (ended)",
-    "last_verified": "2026-10-01",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 12034,
     "title": "Memorial Day Sale: 60% Cost Reduction On Trading Challenges",
-    "offer_type": "coupon",
+    "date_published": "2026-05-26",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-05-26",
+    "offer_type": "coupon",
     "scope": [
       "Tcp Accounts, Gau Accounts, $25,000 To $200,000 Account Sizes, Evaluation Rebills, Account Resets"
     ],
-    "date_published": "2026-05-26",
-    "date_exp": "Ended",
-    "last_verified": "2026-05-26",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 11831,
     "title": "60% Discount on All Subscriptions and Reduced Reset Fees",
-    "offer_type": "coupon",
+    "date_published": "2026-04-29",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-04-29",
+    "offer_type": "coupon",
     "scope": [
       "All Subscriptions"
     ],
-    "date_published": "2026-04-29",
-    "date_exp": "Ended",
-    "last_verified": "2026-04-29",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-subscriptions-deal/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 11686,
     "title": "50% Off Subscriptions and Account Resets from $65",
-    "offer_type": "coupon",
-    "discount_value": "50%",
-    "scope": [
-      "All Subscriptions, Tcp25, Tcp50, Gau50, Resets"
-    ],
     "date_published": "2026-04-13",
     "date_exp": "Ended",
+    "discount_value": "50%",
     "last_verified": "2026-04-13",
-    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-percent-discount-resets/",
-    "prop_firm": "Earn2Trade",
-    "prop_firm_slug": "earn2trade",
-    "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
-    "deal_id": 11628,
-    "title": "60% Off Evaluation Accounts and Discounted Resets",
     "offer_type": "coupon",
-    "discount_value": "60%",
     "scope": [
       "All Subscriptions, Tcp25, Tcp50, Gau50, Resets"
     ],
-    "date_published": "2026-03-27",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-27",
-    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/",
+    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-percent-discount-resets/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
+    "deal_id": 11628,
+    "title": "60% Off Evaluation Accounts and Discounted Resets",
+    "date_published": "2026-03-27",
+    "date_exp": "Ended",
+    "discount_value": "60%",
+    "last_verified": "2026-03-27",
+    "offer_type": "coupon",
+    "scope": [
+      "All Subscriptions, Tcp25, Tcp50, Gau50, Resets"
+    ],
+    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/",
+    "code": "PFD",
+    "code_state": "standing"
   },
   {
+    "prop_firm": "Earn2Trade",
+    "prop_firm_slug": "earn2trade",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 11523,
     "title": "60% Off All Subscriptions and Resets from $55 to $65",
-    "offer_type": "coupon",
+    "date_published": "2026-03-25",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-03-25",
+    "offer_type": "coupon",
     "scope": [
       "All Subscriptions, Tcp25, Tcp50, Gau50"
     ],
-    "date_published": "2026-03-25",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-25",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-percent-discount-resets/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 11181,
     "title": "60% Off TCP Evaluation Pricing & Lower Reset Fees",
-    "offer_type": "coupon",
+    "date_published": "2026-02-13",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-02-13",
+    "offer_type": "coupon",
     "scope": [
       "Trader Career Path, Gauntlet Mini, Resets"
     ],
-    "date_published": "2026-02-13",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-13",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-presidents-day-tcp-promotion/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 10886,
     "title": "60% Off First Two Months & Discounted Account Resets",
-    "offer_type": "coupon",
+    "date_published": "2026-02-02",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2026-02-02",
+    "offer_type": "coupon",
     "scope": [
       "All Subscriptions, Tcp25 Reset, Tcp50 Reset, Gau50 Reset"
     ],
-    "date_published": "2026-02-02",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-02",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-valentines-day-promotion/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 10883,
     "title": "60% Off Trader Career Path Monthly Subscriptions",
-    "offer_type": "coupon",
-    "discount_value": "60%",
-    "scope": [
-      "Tcp25, Tcp50, Tcp100, Resets"
-    ],
     "date_published": "2026-01-28",
     "date_exp": "Ended",
+    "discount_value": "60%",
     "last_verified": "2026-01-28",
-    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-percent-off-trader-career-path/",
-    "prop_firm": "Earn2Trade",
-    "prop_firm_slug": "earn2trade",
-    "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
-    "deal_id": 10735,
-    "title": "Offer: 50% OFF All Trader Career Path Accounts",
     "offer_type": "coupon",
-    "discount_value": "50%",
     "scope": [
       "Tcp25, Tcp50, Tcp100, Resets"
     ],
-    "date_published": "2026-01-20",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-20",
-    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-trader-career-path-50-off/",
+    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-percent-off-trader-career-path/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
+    "deal_id": 10735,
+    "title": "Offer: 50% OFF All Trader Career Path Accounts",
+    "date_published": "2026-01-20",
+    "date_exp": "Ended",
+    "discount_value": "50%",
+    "last_verified": "2026-01-20",
+    "offer_type": "coupon",
+    "scope": [
+      "Tcp25, Tcp50, Tcp100, Resets"
+    ],
+    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-trader-career-path-50-off/",
+    "code": "PFD",
+    "code_state": "standing"
   },
   {
+    "prop_firm": "Earn2Trade",
+    "prop_firm_slug": "earn2trade",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 10712,
     "title": "2026 New Year Deal: 50% Off Select Evaluations",
-    "offer_type": "coupon",
+    "date_published": "2026-01-05",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-01-05",
+    "offer_type": "coupon",
     "scope": [
       "Tcp25, Tcp50, Tcp100, Gau50, Gau100"
     ],
-    "date_published": "2026-01-05",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-05",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 10395,
     "title": "Christmas Offer: 60% OFF First 2 Months on TCP Accounts",
-    "offer_type": "coupon",
+    "date_published": "2025-12-19",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-12-19",
+    "offer_type": "coupon",
     "scope": [
       "Tcp25, Tcp50, And Tcp100 Accounts"
     ],
-    "date_published": "2025-12-19",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-19",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 10466,
     "title": "Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee",
-    "offer_type": "coupon",
+    "date_published": "2025-12-16",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-12-16",
+    "offer_type": "coupon",
     "scope": [
       "Evaluation Accounts"
     ],
-    "date_published": "2025-12-16",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-16",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-promotion/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 10034,
     "title": "Cyber Monday Offer: 60% OFF + Free Activation",
-    "offer_type": "deal",
+    "date_published": "2025-12-01",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-12-01",
+    "offer_type": "deal",
     "scope": [
       "All Subscriptions (Tcp And Gauntlet Mini)."
     ],
-    "date_published": "2025-12-01",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-01",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-60-off-free-activation/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 9793,
     "title": "Black Friday Deal: 60% OFF Subscriptions + Resets",
-    "offer_type": "deal",
+    "date_published": "2025-11-17",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-11-17",
+    "offer_type": "deal",
     "scope": [
       "All Subscriptions And Specific Resets (Tcp 25K/50K, Gau 50K)"
     ],
-    "date_published": "2025-11-17",
-    "date_exp": "Ended",
-    "last_verified": "2025-11-17",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-deal-60-off-subscriptions-discounted-resets/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 9542,
     "title": "Black Friday Pre-Sale — 60% OFF Trader Career Path® (Ends Nov 16, 2025)",
-    "offer_type": "coupon",
+    "date_published": "2025-11-05",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-11-05",
+    "offer_type": "coupon",
     "scope": [
       "Trader Career Path®"
     ],
-    "date_published": "2025-11-05",
-    "date_exp": "Ended",
-    "last_verified": "2025-11-05",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-pre-sale-60-off-trader-career-path-ends-nov-16-2025/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 9434,
     "title": "50% OFF Subscriptions + Up to 35% OFF Resets (Valid Through Nov 2, 2025)",
-    "offer_type": "coupon",
+    "date_published": "2025-10-28",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2025-10-28",
+    "offer_type": "coupon",
     "scope": [
       "Subscriptions"
     ],
-    "date_published": "2025-10-28",
-    "date_exp": "Ended",
-    "last_verified": "2025-10-28",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-subscriptions-35-off-resets-ends-nov-2-2025/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Earn2Trade",
     "prop_firm_slug": "earn2trade",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
     "deal_id": 9378,
     "title": "60% OFF 50K Accounts (TCP50 $76, Gauntlet Mini $68) + Discounted Resets",
-    "offer_type": "coupon",
+    "date_published": "2025-10-20",
+    "date_exp": "Ended",
     "discount_value": "60%",
+    "last_verified": "2025-10-20",
+    "offer_type": "coupon",
     "scope": [
       "50K Accounts"
     ],
-    "date_published": "2025-10-20",
-    "date_exp": "Ended",
-    "last_verified": "2025-10-20",
     "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-50k-accounts-tcp50-76-gauntlet-mini-68-discounted-resets/",
-    "prop_firm": "Earn2Trade",
-    "prop_firm_slug": "earn2trade",
-    "standing_code": "PFD",
-    "code": "PFD"
+    "code": "PFD",
+    "code_state": "standing"
   }
 ]

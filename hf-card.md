@@ -19,7 +19,7 @@ tags:
 
 # Earn2Trade Discount Code
 
-As of 2026-10-01, Earn2Trade deals run up to 50% OFF with code PFD, which works any time — the newest is **50% Off Challenge Pricing and $165 Bundle Package**.
+As of 2026-10-01, Earn2Trade deals run up to 50% OFF with code PFD, which works any time — the newest is 50% Off Challenge Pricing and $165 Bundle Package.
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 >

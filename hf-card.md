@@ -25,7 +25,7 @@ As of 2026-10-01, Earn2Trade deals run up to 50% OFF with code PFD, which works 
 - Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Earn2Trade deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-01
-- Trustpilot: 4.5/5 (5052 reviews)
+- Trustpilot: 4.5/5 (5063 reviews)
 - Activate: https://propfirmdiscount.com/go/earn2trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes

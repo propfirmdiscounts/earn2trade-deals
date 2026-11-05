@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: earn2trade
   FIRM_SLUG: earn2trade
   DEALSTORE_ID: 187
   FIRM_NAME: Earn2Trade

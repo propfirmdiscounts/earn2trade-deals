@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13211,
+    "title": "50% Off All Evaluations",
+    "offer_type": "coupon",
+    "discount_value": "50%",
+    "scope": [
+      "All Evaluations"
+    ],
+    "date_published": "2026-11-02",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-02",
+    "post_url": "https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/",
+    "prop_firm": "Earn2Trade",
+    "prop_firm_slug": "earn2trade",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/earn2trade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/earn2trade/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 12792,
     "title": "50% Off Challenge Pricing and $165 Bundle Package",
     "offer_type": "coupon",

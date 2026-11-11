@@ -1,6 +1,6 @@
 # Earn2Trade - Discount Codes & Deal History
 
-As of 2026-10-01, Earn2Trade deals run up to 50% OFF with code PFD, which works any time — the newest is 50% Off Challenge Pricing and $165 Bundle Package.
+As of 2026-11-02, Earn2Trade deals run up to 50% OFF with code PFD, which works any time — the newest is 50% Off All Evaluations.
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 >
@@ -9,21 +9,21 @@ As of 2026-10-01, Earn2Trade deals run up to 50% OFF with code PFD, which works 
 - Code: PFD
 - Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Earn2Trade deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-01
+- Last deal published: 2026-11-02
 - Trustpilot: 4.5/5 (5080 reviews)
 - Activate: https://propfirmdiscount.com/go/earn2trade
 - Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Earn2Trade deal: 50% Off Challenge Pricing and $165 Bundle Package
+## Current Earn2Trade deal: 50% Off All Evaluations
 
-- Published: 2026-10-01
-- Offer ends: 2026-10-18 (ended)
+- Published: 2026-11-02
+- Offer ends: Limited time
 - Offer: 50% off
-- Scope: All Evaluation Models, Resets, Tcp25 Bundle
+- Scope: All Evaluations
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/
+- Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
 
 ## Earn2Trade discount code FAQ
 
@@ -37,18 +37,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Earn2Trade deal?**
 
-**50% Off Challenge Pricing and $165 Bundle Package** — published 2026-10-01. Offer ends: 2026-10-18 (ended). The offer is 50% off.
+**50% Off All Evaluations** — published 2026-11-02. Offer ends: Limited time. The offer is 50% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **18**
+Total deals tracked: **19**
 
-### 2026 (11 deals)
+### 2026 (12 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-02 | 50% Off All Evaluations | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/) |
 | 2026-10-01 | 50% Off Challenge Pricing and $165 Bundle Package | 50% off | 2026-10-18 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) |
 | 2026-05-26 | Memorial Day Sale: 60% Cost Reduction On Trading Challenges | 60% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/) |
 | 2026-04-29 | 60% Discount on All Subscriptions and Reduced Reset Fees | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-subscriptions-deal/) |

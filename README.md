@@ -1,13 +1,13 @@
 # Earn2Trade - Discount Codes & Deal History
 
-As of 2026-11-02, Earn2Trade deals run up to 50% OFF with code PFD, which works any time — the newest is 50% Off All Evaluations.
+As of 2026-11, Earn2Trade deals run 50% OFF with code PFD, which works any time — the newest is 50% Off All Evaluations.
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 >
 > — Earn2Trade, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/www.earn2trade.com)
 
 - Code: PFD
-- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Earn2Trade deal, whatever form that deal is stated in)
+- Discount: 50% off (what the code takes off the firm's newest deal; it applies to every Earn2Trade deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: 4.5/5 (5088 reviews)
@@ -16,7 +16,7 @@ As of 2026-11-02, Earn2Trade deals run up to 50% OFF with code PFD, which works 
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Earn2Trade deal: 50% Off All Evaluations
+## Current Earn2Trade deal: 50% Off All Evaluations with code PFD
 
 - Published: 2026-11-02
 - Offer ends: Limited time
@@ -29,7 +29,7 @@ As of 2026-11-02, Earn2Trade deals run up to 50% OFF with code PFD, which works 
 
 **What is the Earn2Trade discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 50% off Earn2Trade challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 50% off Earn2Trade challenges and accounts.
 
 **Does the Earn2Trade discount code expire?**
 
@@ -37,7 +37,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Earn2Trade deal?**
 
-**50% Off All Evaluations** — published 2026-11-02. Offer ends: Limited time. The offer is 50% off.
+**50% Off All Evaluations with code PFD** — published 2026-11-02. Offer ends: Limited time. The offer is 50% off.
 
 ---
 
@@ -49,30 +49,30 @@ Total deals tracked: **19**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-02 | 50% Off All Evaluations | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/) |
-| 2026-10-01 | 50% Off Challenge Pricing and $165 Bundle Package | 50% off | 2026-10-18 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) |
-| 2026-05-26 | Memorial Day Sale: 60% Cost Reduction On Trading Challenges | 60% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/) |
-| 2026-04-29 | 60% Discount on All Subscriptions and Reduced Reset Fees | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-subscriptions-deal/) |
-| 2026-04-13 | 50% Off Subscriptions and Account Resets from $65 | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-percent-discount-resets/) |
-| 2026-03-27 | 60% Off Evaluation Accounts and Discounted Resets | 60% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/) |
-| 2026-03-25 | 60% Off All Subscriptions and Resets from $55 to $65 | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-percent-discount-resets/) |
-| 2026-02-13 | 60% Off TCP Evaluation Pricing & Lower Reset Fees | 60% off | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-presidents-day-tcp-promotion/) |
-| 2026-02-02 | 60% Off First Two Months & Discounted Account Resets | 60% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-valentines-day-promotion/) |
-| 2026-01-28 | 60% Off Trader Career Path Monthly Subscriptions | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-percent-off-trader-career-path/) |
-| 2026-01-20 | Offer: 50% OFF All Trader Career Path Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-trader-career-path-50-off/) |
-| 2026-01-05 | 2026 New Year Deal: 50% Off Select Evaluations | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/) |
+| 2026-11-02 | Earn2Trade: 50% Off All Evaluations with code PFD | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/) |
+| 2026-10-01 | Earn2Trade: 50% Off Challenge Pricing and $165 Bundle Package with code PFD | 50% off | 2026-10-18 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) |
+| 2026-05-26 | Earn2Trade: Memorial Day Sale: 60% Cost Reduction On Trading Challenges with code PFD | 60% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/) |
+| 2026-04-29 | Earn2Trade: 60% Discount on All Subscriptions and Reduced Reset Fees with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-subscriptions-deal/) |
+| 2026-04-13 | Earn2Trade: 50% Off Subscriptions and Account Resets from $65 with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-percent-discount-resets/) |
+| 2026-03-27 | Earn2Trade: 60% Off Evaluation Accounts and Discounted Resets with code PFD | 60% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-easter-sale/) |
+| 2026-03-25 | Earn2Trade: 60% Off All Subscriptions and Resets from $55 to $65 with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-percent-discount-resets/) |
+| 2026-02-13 | Earn2Trade: 60% Off TCP Evaluation Pricing & Lower Reset Fees with code PFD | 60% off | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-presidents-day-tcp-promotion/) |
+| 2026-02-02 | Earn2Trade: 60% Off First Two Months & Discounted Account Resets with code PFD | 60% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-valentines-day-promotion/) |
+| 2026-01-28 | Earn2Trade: 60% Off Trader Career Path Monthly Subscriptions with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-percent-off-trader-career-path/) |
+| 2026-01-20 | Earn2Trade: Offer: 50% OFF All Trader Career Path Accounts with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-trader-career-path-50-off/) |
+| 2026-01-05 | Earn2Trade: 2026 New Year Deal: 50% Off Select Evaluations with code PFD | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-new-year-2026-promotion/) |
 
 ### 2025 (7 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-19 | Christmas Offer: 60% OFF First 2 Months on TCP Accounts | 60% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/) |
-| 2025-12-16 | Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee | 60% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-promotion/) |
-| 2025-12-01 | Cyber Monday Offer: 60% OFF + Free Activation | 60% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-60-off-free-activation/) |
-| 2025-11-17 | Black Friday Deal: 60% OFF Subscriptions + Resets | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-deal-60-off-subscriptions-discounted-resets/) |
-| 2025-11-05 | Black Friday Pre-Sale — 60% OFF Trader Career Path® (Ends Nov 16, 2025) | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-pre-sale-60-off-trader-career-path-ends-nov-16-2025/) |
-| 2025-10-28 | 50% OFF Subscriptions + Up to 35% OFF Resets (Valid Through Nov 2, 2025) | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-subscriptions-35-off-resets-ends-nov-2-2025/) |
-| 2025-10-20 | 60% OFF 50K Accounts (TCP50 $76, Gauntlet Mini $68) + Discounted Resets | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-50k-accounts-tcp50-76-gauntlet-mini-68-discounted-resets/) |
+| 2025-12-19 | Earn2Trade: Christmas Offer: 60% OFF First 2 Months on TCP Accounts with code PFD | 60% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-christmas-offer-60-off-tcp/) |
+| 2025-12-16 | Earn2Trade: Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee with code PFD | 60% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-promotion/) |
+| 2025-12-01 | Earn2Trade: Cyber Monday Offer: 60% OFF + Free Activation with code PFD | 60% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-60-off-free-activation/) |
+| 2025-11-17 | Earn2Trade: Black Friday Deal: 60% OFF Subscriptions + Resets with code PFD | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-deal-60-off-subscriptions-discounted-resets/) |
+| 2025-11-05 | Earn2Trade: Black Friday Pre-Sale — 60% OFF Trader Career Path® (Ends Nov 16, 2025) with code PFD | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-friday-pre-sale-60-off-trader-career-path-ends-nov-16-2025/) |
+| 2025-10-28 | Earn2Trade: 50% OFF Subscriptions + Up to 35% OFF Resets (Valid Through Nov 2, 2025) with code PFD | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-subscriptions-35-off-resets-ends-nov-2-2025/) |
+| 2025-10-20 | Earn2Trade: 60% OFF 50K Accounts (TCP50 $76, Gauntlet Mini $68) + Discounted Resets with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-60-off-50k-accounts-tcp50-76-gauntlet-mini-68-discounted-resets/) |
 
 ---
 

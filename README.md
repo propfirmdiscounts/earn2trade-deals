@@ -10,11 +10,12 @@ As of 2026-11, Earn2Trade deals run 50% OFF with code PFD, which works any time 
 - Discount: 50% off (what the code takes off the firm's newest deal; it applies to every Earn2Trade deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
-- Trustpilot: 4.5/5 (5088 reviews)
-- Activate: https://propfirmdiscount.com/go/earn2trade
-- Firm page: https://propfirmdiscount.com/prop-firm/earn2trade/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [4.5/5 (5088 reviews)](https://www.trustpilot.com/review/www.earn2trade.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/earn2trade-deals](https://github.com/propfirmdiscounts/earn2trade-deals)
+- Activate: [https://propfirmdiscount.com/go/earn2trade](https://propfirmdiscount.com/go/earn2trade)
+- Firm page: [https://propfirmdiscount.com/prop-firm/earn2trade/](https://propfirmdiscount.com/prop-firm/earn2trade/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Earn2Trade deal: 50% Off All Evaluations with code PFD
 
@@ -23,7 +24,7 @@ As of 2026-11, Earn2Trade deals run 50% OFF with code PFD, which works any time 
 - Offer: 50% off
 - Scope: All Evaluations
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/
+- Deal page: [https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/)
 
 ## Earn2Trade discount code FAQ
 
@@ -80,9 +81,9 @@ Total deals tracked: **19**
 
 This repository mirrors every deal **Earn2Trade** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/earn2trade/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/earn2trade/](https://propfirmdiscount.com/prop-firm/earn2trade/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/earn2trade-deals.json`
 

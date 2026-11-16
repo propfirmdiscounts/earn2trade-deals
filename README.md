@@ -1,6 +1,6 @@
 # Earn2Trade - Discount Codes & Deal History
 
-As of 2026-11, Earn2Trade deals run 50% OFF with code PFD, which works any time — the newest is 50% Off All Evaluations.
+As of November 2026, Earn2Trade deals offer 50% OFF with code PFD, which can be applied on the checkout page anytime.
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 >

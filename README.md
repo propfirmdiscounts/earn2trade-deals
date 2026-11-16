@@ -1,6 +1,6 @@
 # Earn2Trade - Discount Codes & Deal History
 
-As of November 2026, Earn2Trade deals offer 50% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Earn2Trade discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "50% Off All Evaluations with code PFD".
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 >
@@ -11,11 +11,11 @@ As of November 2026, Earn2Trade deals offer 50% OFF with code PFD, which can be 
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: [4.5/5 (5088 reviews)](https://www.trustpilot.com/review/www.earn2trade.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/earn2trade-deals](https://github.com/propfirmdiscounts/earn2trade-deals)
-- Activate: [https://propfirmdiscount.com/go/earn2trade](https://propfirmdiscount.com/go/earn2trade)
-- Firm page: [https://propfirmdiscount.com/prop-firm/earn2trade/](https://propfirmdiscount.com/prop-firm/earn2trade/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Earn2Trade Deals Repository](https://github.com/propfirmdiscounts/earn2trade-deals)
+- Activate: [Activate Earn2Trade Discount Code](https://propfirmdiscount.com/go/earn2trade)
+- Firm page: [Earn2Trade Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/earn2trade/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Earn2Trade API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Earn2Trade deal: 50% Off All Evaluations with code PFD
 
@@ -24,7 +24,7 @@ As of November 2026, Earn2Trade deals offer 50% OFF with code PFD, which can be 
 - Offer: 50% off
 - Scope: All Evaluations
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/)
+- Deal page: [Earn2Trade Deal Page](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/)
 
 ## Earn2Trade discount code FAQ
 
@@ -81,9 +81,9 @@ Total deals tracked: **19**
 
 This repository mirrors every deal **Earn2Trade** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/earn2trade/](https://propfirmdiscount.com/prop-firm/earn2trade/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Earn2Trade Profile](https://propfirmdiscount.com/prop-firm/earn2trade/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/earn2trade-deals.json`
 
@@ -126,4 +126,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).

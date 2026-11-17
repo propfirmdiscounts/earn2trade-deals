@@ -1,4 +1,4 @@
-# Earn2Trade Discount Code & Deal History
+# Earn2Trade Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Earn2Trade discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "50% Off All Evaluations with code PFD".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified Earn2Trade discount code is PFD — 50% OFF, w
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
 - Trustpilot: [4.5/5 (5098 reviews)](https://www.trustpilot.com/review/www.earn2trade.com)
-- GitHub repository: [Earn2Trade Deals Repository](https://github.com/propfirmdiscounts/earn2trade-deals)
+- GitHub repository: [Earn2Trade Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/earn2trade-deals)
 - Activate: [Activate Earn2Trade Discount Code](https://propfirmdiscount.com/go/earn2trade)
 - Firm page: [Earn2Trade Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/earn2trade/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -26,7 +26,7 @@ As of November 2026, the verified Earn2Trade discount code is PFD — 50% OFF, w
 - Code: PFD
 - Deal page: [Earn2Trade Deal Page](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/)
 
-## Earn2Trade Discount Code & Deals FAQ
+## Earn2Trade Discount Code & Deals History FAQ
 
 **What is the Earn2Trade discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Earn2Trade Deal History
+## Earn2Trade Deals History
 
 Total deals tracked: **19**
 
@@ -77,7 +77,7 @@ Total deals tracked: **19**
 
 ---
 
-## About the Earn2Trade Deals Dataset
+## About the Earn2Trade Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Earn2Trade** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -85,7 +85,7 @@ This repository mirrors every deal **Earn2Trade** has published on PropFirmDisco
 - Prop firm profile: [Earn2Trade Profile](https://propfirmdiscount.com/prop-firm/earn2trade/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Earn2Trade Deal Dataset: Field Definitions
+## Earn2Trade Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

@@ -1,4 +1,4 @@
-# Earn2Trade Discount Codes
+# Earn2Trade Discount Code & Deals History
 
 This dataset tracks historical deal observations for Earn2Trade from PropFirmDiscount.com.
 

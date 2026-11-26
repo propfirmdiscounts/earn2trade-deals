@@ -1,13 +1,13 @@
 # Earn2Trade Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Earn2Trade discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "50% Off All Evaluations (code PFD)".
+As of November 2026, the verified Earn2Trade discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "Black Week: Up to 70% Off Evaluations (code PFD)".
 
 > Everything you need to become a professional Futures trader. Educational plans from basic to advanced and an evaluation program for getting funded by trading firms.
 >
 > — Earn2Trade, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/www.earn2trade.com)
 
 - Code: PFD
-- Discount: 50% off (what the code takes off the firm's newest deal; it applies to every Earn2Trade deal, whatever form that deal is stated in)
+- Discount: 70% off (what the code takes off the firm's newest deal; it applies to every Earn2Trade deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
 - Trustpilot: [4.5/5 (5108 reviews)](https://www.trustpilot.com/review/www.earn2trade.com)
@@ -17,20 +17,21 @@ As of November 2026, the verified Earn2Trade discount code is PFD — 50% OFF, w
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Earn2Trade API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Earn2Trade deal: 50% Off All Evaluations (code PFD)
+## Latest Earn2Trade deal: Black Week: Up to 70% Off Evaluations (code PFD)
 
-- Published: 2026-11-02
-- Offer ends: Limited time
-- Offer: 50% off
-- Scope: All Evaluations
+- Published: 2026-11-25
+- Offer ends: 2026-11-29
+- Offer: 70% off
+- Event: Black Friday
+- Scope: Tcp And Gau Evaluations
 - Code: PFD
-- Deal page: [Earn2Trade Deal Page](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/)
+- Deal page: [Earn2Trade Deal Page](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-week-up-to-70-off-evaluations/)
 
 ## Earn2Trade Discount Code & Deals History FAQ
 
 **What is the Earn2Trade discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 50% off Earn2Trade challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 70% off Earn2Trade challenges and accounts.
 
 **Does the Earn2Trade discount code expire?**
 
@@ -38,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Earn2Trade deal?**
 
-**50% Off All Evaluations (code PFD)** — published 2026-11-02. Offer ends: Limited time. The offer is 50% off.
+**Black Week: Up to 70% Off Evaluations (code PFD)** — published 2026-11-25. Offer ends: 2026-11-29. The offer is 70% off.
 
 ---
 
 ## Earn2Trade Deals History
 
-Total deals tracked: **19**
+Total deals tracked: **20**
 
-### 2026 (12 deals)
+### 2026 (13 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-25 | Earn2Trade: Black Week: Up to 70% Off Evaluations (code PFD) | 70% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-black-week-up-to-70-off-evaluations/) |
 | 2026-11-02 | Earn2Trade: 50% Off All Evaluations (code PFD) | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-evaluations-ladder-removed/) |
 | 2026-10-01 | Earn2Trade: 50% Off Challenge Pricing and $165 Bundle Package (code PFD) | 50% off | 2026-10-18 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-50-off-165-bundle/) |
 | 2026-05-26 | Earn2Trade: Memorial Day Sale: 60% Cost Reduction On Trading Challenges (code PFD) | 60% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-memorial-day-sale-60-off/) |
